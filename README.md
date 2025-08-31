@@ -1,2 +1,2 @@
 # C_sharp
-this folder is about C#
+This code repository is about C#
